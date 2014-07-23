@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<action-recipes>
+	
+	<action id="com.onecrayon.sugar.show-get-info">
+		<class>OCShellAction</class>
+		<setup>
+			<script>show-getinfo.py</script>
+			<empty-selection>false</empty-selection>
+		</setup>
+	</action>
+	
+</action-recipes>
